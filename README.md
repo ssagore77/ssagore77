@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssagore77
+- 👋 Hi, I’m @Sayali!
 - 👀 I’m interested in Business Intelligence
 - 🌱 I’m currently learning SQL and Tableau
 - 💞️ I’m looking to collaborate on Data projects
